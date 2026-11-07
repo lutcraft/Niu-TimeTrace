@@ -1,0 +1,6 @@
+{
+  "name": "牛马时录 WorkTimeTrace Pro",
+  "description": "基于 GPS 地理围栏的无感自动考勤与加班统计工作台，内置动态迟滞围栏防漂移、午休扣除、薪资折算与 Kotlin 源码优化补丁中心。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
